@@ -1,0 +1,794 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|c:\\users\\netuv\\desktop\\serhat\\kurum dosyalari\\m\u00FCfredat\\dersler\\5-) .net core i\u00E7in\\5-) .net core\\21. ders\\divisima\\divisima.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|solutionrelative:divisima.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|c:\\users\\netuv\\desktop\\serhat\\kurum dosyalari\\m\u00FCfredat\\dersler\\5-) .net core i\u00E7in\\5-) .net core\\21. ders\\divisima\\divisima.ui\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|solutionrelative:divisima.ui\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52A2CB32-CDD9-4D57-BC0D-5B5FB18927F2}|Divisima.DAL\\Divisima.DAL.csproj|c:\\users\\netuv\\desktop\\serhat\\kurum dosyalari\\m\u00FCfredat\\dersler\\5-) .net core i\u00E7in\\5-) .net core\\21. ders\\divisima\\divisima.dal\\context\\sqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52A2CB32-CDD9-4D57-BC0D-5B5FB18927F2}|Divisima.DAL\\Divisima.DAL.csproj|solutionrelative:divisima.dal\\context\\sqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|c:\\users\\netuv\\desktop\\serhat\\kurum dosyalari\\m\u00FCfredat\\dersler\\5-) .net core i\u00E7in\\5-) .net core\\21. ders\\divisima\\divisima.ui\\areas\\admin\\controllers\\productpicturecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|solutionrelative:divisima.ui\\areas\\admin\\controllers\\productpicturecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|c:\\users\\netuv\\desktop\\serhat\\kurum dosyalari\\m\u00FCfredat\\dersler\\5-) .net core i\u00E7in\\5-) .net core\\21. ders\\divisima\\divisima.ui\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|solutionrelative:divisima.ui\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|c:\\users\\netuv\\desktop\\serhat\\kurum dosyalari\\m\u00FCfredat\\dersler\\5-) .net core i\u00E7in\\5-) .net core\\21. ders\\divisima\\divisima.ui\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|solutionrelative:divisima.ui\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|c:\\users\\netuv\\desktop\\serhat\\kurum dosyalari\\m\u00FCfredat\\dersler\\5-) .net core i\u00E7in\\5-) .net core\\21. ders\\divisima\\divisima.ui\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|solutionrelative:divisima.ui\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|c:\\users\\netuv\\desktop\\serhat\\kurum dosyalari\\m\u00FCfredat\\dersler\\5-) .net core i\u00E7in\\5-) .net core\\21. ders\\divisima\\divisima.ui\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|solutionrelative:divisima.ui\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|c:\\users\\netuv\\desktop\\serhat\\kurum dosyalari\\m\u00FCfredat\\dersler\\5-) .net core i\u00E7in\\5-) .net core\\21. ders\\divisima\\divisima.ui\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|solutionrelative:divisima.ui\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|c:\\users\\netuv\\desktop\\serhat\\kurum dosyalari\\m\u00FCfredat\\dersler\\5-) .net core i\u00E7in\\5-) .net core\\21. ders\\divisima\\divisima.ui\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|solutionrelative:divisima.ui\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52A2CB32-CDD9-4D57-BC0D-5B5FB18927F2}|Divisima.DAL\\Divisima.DAL.csproj|c:\\users\\netuv\\desktop\\serhat\\kurum dosyalari\\m\u00FCfredat\\dersler\\5-) .net core i\u00E7in\\5-) .net core\\21. ders\\divisima\\divisima.dal\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52A2CB32-CDD9-4D57-BC0D-5B5FB18927F2}|Divisima.DAL\\Divisima.DAL.csproj|solutionrelative:divisima.dal\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52A2CB32-CDD9-4D57-BC0D-5B5FB18927F2}|Divisima.DAL\\Divisima.DAL.csproj|c:\\users\\netuv\\desktop\\serhat\\kurum dosyalari\\m\u00FCfredat\\dersler\\5-) .net core i\u00E7in\\5-) .net core\\21. ders\\divisima\\divisima.dal\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52A2CB32-CDD9-4D57-BC0D-5B5FB18927F2}|Divisima.DAL\\Divisima.DAL.csproj|solutionrelative:divisima.dal\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|c:\\users\\netuv\\desktop\\serhat\\kurum dosyalari\\m\u00FCfredat\\dersler\\5-) .net core i\u00E7in\\5-) .net core\\21. ders\\divisima\\divisima.ui\\views\\shared\\components\\header\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|solutionrelative:divisima.ui\\views\\shared\\components\\header\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|c:\\users\\netuv\\desktop\\serhat\\kurum dosyalari\\m\u00FCfredat\\dersler\\5-) .net core i\u00E7in\\5-) .net core\\21. ders\\divisima\\divisima.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|solutionrelative:divisima.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|c:\\users\\netuv\\desktop\\serhat\\kurum dosyalari\\m\u00FCfredat\\dersler\\5-) .net core i\u00E7in\\5-) .net core\\21. ders\\divisima\\divisima.ui\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|solutionrelative:divisima.ui\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|c:\\users\\netuv\\desktop\\serhat\\kurum dosyalari\\m\u00FCfredat\\dersler\\5-) .net core i\u00E7in\\5-) .net core\\21. ders\\divisima\\divisima.ui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|solutionrelative:divisima.ui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|c:\\users\\netuv\\desktop\\serhat\\kurum dosyalari\\m\u00FCfredat\\dersler\\5-) .net core i\u00E7in\\5-) .net core\\21. ders\\divisima\\divisima.ui\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|solutionrelative:divisima.ui\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|c:\\users\\netuv\\desktop\\serhat\\kurum dosyalari\\m\u00FCfredat\\dersler\\5-) .net core i\u00E7in\\5-) .net core\\21. ders\\divisima\\divisima.ui\\views\\shared\\_product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|solutionrelative:divisima.ui\\views\\shared\\_product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|c:\\users\\netuv\\desktop\\serhat\\kurum dosyalari\\m\u00FCfredat\\dersler\\5-) .net core i\u00E7in\\5-) .net core\\21. ders\\divisima\\divisima.ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|solutionrelative:divisima.ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|c:\\users\\netuv\\desktop\\serhat\\kurum dosyalari\\m\u00FCfredat\\dersler\\5-) .net core i\u00E7in\\5-) .net core\\21. ders\\divisima\\divisima.ui\\areas\\admin\\views\\slide\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|solutionrelative:divisima.ui\\areas\\admin\\views\\slide\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|c:\\users\\netuv\\desktop\\serhat\\kurum dosyalari\\m\u00FCfredat\\dersler\\5-) .net core i\u00E7in\\5-) .net core\\21. ders\\divisima\\divisima.ui\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|solutionrelative:divisima.ui\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|c:\\users\\netuv\\desktop\\serhat\\kurum dosyalari\\m\u00FCfredat\\dersler\\5-) .net core i\u00E7in\\5-) .net core\\21. ders\\divisima\\divisima.ui\\areas\\admin\\views\\productpicture\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|solutionrelative:divisima.ui\\areas\\admin\\views\\productpicture\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|c:\\users\\netuv\\desktop\\serhat\\kurum dosyalari\\m\u00FCfredat\\dersler\\5-) .net core i\u00E7in\\5-) .net core\\21. ders\\divisima\\divisima.ui\\viewmodels\\indexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|solutionrelative:divisima.ui\\viewmodels\\indexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|c:\\users\\netuv\\desktop\\serhat\\kurum dosyalari\\m\u00FCfredat\\dersler\\5-) .net core i\u00E7in\\5-) .net core\\21. ders\\divisima\\divisima.ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|solutionrelative:divisima.ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|c:\\users\\netuv\\desktop\\serhat\\kurum dosyalari\\m\u00FCfredat\\dersler\\5-) .net core i\u00E7in\\5-) .net core\\21. ders\\divisima\\divisima.ui\\areas\\admin\\views\\productpicture\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|solutionrelative:divisima.ui\\areas\\admin\\views\\productpicture\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|c:\\users\\netuv\\desktop\\serhat\\kurum dosyalari\\m\u00FCfredat\\dersler\\5-) .net core i\u00E7in\\5-) .net core\\21. ders\\divisima\\divisima.ui\\areas\\admin\\views\\productpicture\\new.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|solutionrelative:divisima.ui\\areas\\admin\\views\\productpicture\\new.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52A2CB32-CDD9-4D57-BC0D-5B5FB18927F2}|Divisima.DAL\\Divisima.DAL.csproj|c:\\users\\netuv\\desktop\\serhat\\kurum dosyalari\\m\u00FCfredat\\dersler\\5-) .net core i\u00E7in\\5-) .net core\\21. ders\\divisima\\divisima.dal\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52A2CB32-CDD9-4D57-BC0D-5B5FB18927F2}|Divisima.DAL\\Divisima.DAL.csproj|solutionrelative:divisima.dal\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52A2CB32-CDD9-4D57-BC0D-5B5FB18927F2}|Divisima.DAL\\Divisima.DAL.csproj|c:\\users\\netuv\\desktop\\serhat\\kurum dosyalari\\m\u00FCfredat\\dersler\\5-) .net core i\u00E7in\\5-) .net core\\21. ders\\divisima\\divisima.dal\\entities\\productpicture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52A2CB32-CDD9-4D57-BC0D-5B5FB18927F2}|Divisima.DAL\\Divisima.DAL.csproj|solutionrelative:divisima.dal\\entities\\productpicture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|c:\\users\\netuv\\desktop\\serhat\\kurum dosyalari\\m\u00FCfredat\\dersler\\5-) .net core i\u00E7in\\5-) .net core\\21. ders\\divisima\\divisima.ui\\areas\\admin\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|solutionrelative:divisima.ui\\areas\\admin\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|c:\\users\\netuv\\desktop\\serhat\\kurum dosyalari\\m\u00FCfredat\\dersler\\5-) .net core i\u00E7in\\5-) .net core\\21. ders\\divisima\\divisima.ui\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|solutionrelative:divisima.ui\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|c:\\users\\netuv\\desktop\\serhat\\kurum dosyalari\\m\u00FCfredat\\dersler\\5-) .net core i\u00E7in\\5-) .net core\\21. ders\\divisima\\divisima.ui\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|solutionrelative:divisima.ui\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|c:\\users\\netuv\\desktop\\serhat\\kurum dosyalari\\m\u00FCfredat\\dersler\\5-) .net core i\u00E7in\\5-) .net core\\21. ders\\divisima\\divisima.ui\\areas\\admin\\views\\product\\new.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|solutionrelative:divisima.ui\\areas\\admin\\views\\product\\new.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|c:\\users\\netuv\\desktop\\serhat\\kurum dosyalari\\m\u00FCfredat\\dersler\\5-) .net core i\u00E7in\\5-) .net core\\21. ders\\divisima\\divisima.ui\\areas\\admin\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|solutionrelative:divisima.ui\\areas\\admin\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52A2CB32-CDD9-4D57-BC0D-5B5FB18927F2}|Divisima.DAL\\Divisima.DAL.csproj|c:\\users\\netuv\\desktop\\serhat\\kurum dosyalari\\m\u00FCfredat\\dersler\\5-) .net core i\u00E7in\\5-) .net core\\21. ders\\divisima\\divisima.dal\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52A2CB32-CDD9-4D57-BC0D-5B5FB18927F2}|Divisima.DAL\\Divisima.DAL.csproj|solutionrelative:divisima.dal\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|c:\\users\\netuv\\desktop\\serhat\\kurum dosyalari\\m\u00FCfredat\\dersler\\5-) .net core i\u00E7in\\5-) .net core\\21. ders\\divisima\\divisima.ui\\areas\\admin\\views\\slide\\new.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|solutionrelative:divisima.ui\\areas\\admin\\views\\slide\\new.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|c:\\users\\netuv\\desktop\\serhat\\kurum dosyalari\\m\u00FCfredat\\dersler\\5-) .net core i\u00E7in\\5-) .net core\\21. ders\\divisima\\divisima.ui\\areas\\admin\\controllers\\slidecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|solutionrelative:divisima.ui\\areas\\admin\\controllers\\slidecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|c:\\users\\netuv\\desktop\\serhat\\kurum dosyalari\\m\u00FCfredat\\dersler\\5-) .net core i\u00E7in\\5-) .net core\\21. ders\\divisima\\divisima.ui\\areas\\admin\\views\\slide\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|solutionrelative:divisima.ui\\areas\\admin\\views\\slide\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|c:\\users\\netuv\\desktop\\serhat\\kurum dosyalari\\m\u00FCfredat\\dersler\\5-) .net core i\u00E7in\\5-) .net core\\21. ders\\divisima\\divisima.ui\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|solutionrelative:divisima.ui\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|c:\\users\\netuv\\desktop\\serhat\\kurum dosyalari\\m\u00FCfredat\\dersler\\5-) .net core i\u00E7in\\5-) .net core\\21. ders\\divisima\\divisima.ui\\areas\\admin\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|solutionrelative:divisima.ui\\areas\\admin\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52A2CB32-CDD9-4D57-BC0D-5B5FB18927F2}|Divisima.DAL\\Divisima.DAL.csproj|c:\\users\\netuv\\desktop\\serhat\\kurum dosyalari\\m\u00FCfredat\\dersler\\5-) .net core i\u00E7in\\5-) .net core\\21. ders\\divisima\\divisima.dal\\entities\\slide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52A2CB32-CDD9-4D57-BC0D-5B5FB18927F2}|Divisima.DAL\\Divisima.DAL.csproj|solutionrelative:divisima.dal\\entities\\slide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52A2CB32-CDD9-4D57-BC0D-5B5FB18927F2}|Divisima.DAL\\Divisima.DAL.csproj|c:\\users\\netuv\\desktop\\serhat\\kurum dosyalari\\m\u00FCfredat\\dersler\\5-) .net core i\u00E7in\\5-) .net core\\21. ders\\divisima\\divisima.dal\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52A2CB32-CDD9-4D57-BC0D-5B5FB18927F2}|Divisima.DAL\\Divisima.DAL.csproj|solutionrelative:divisima.dal\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|c:\\users\\netuv\\desktop\\serhat\\kurum dosyalari\\m\u00FCfredat\\dersler\\5-) .net core i\u00E7in\\5-) .net core\\21. ders\\divisima\\divisima.ui\\tools\\generaltools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|solutionrelative:divisima.ui\\tools\\generaltools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E90ACB-D4F2-432A-839C-8CAC35B40BBE}|Divisima.BL\\Divisima.BL.csproj|c:\\users\\netuv\\desktop\\serhat\\kurum dosyalari\\m\u00FCfredat\\dersler\\5-) .net core i\u00E7in\\5-) .net core\\21. ders\\divisima\\divisima.bl\\repositories\\sqlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E90ACB-D4F2-432A-839C-8CAC35B40BBE}|Divisima.BL\\Divisima.BL.csproj|solutionrelative:divisima.bl\\repositories\\sqlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E90ACB-D4F2-432A-839C-8CAC35B40BBE}|Divisima.BL\\Divisima.BL.csproj|c:\\users\\netuv\\desktop\\serhat\\kurum dosyalari\\m\u00FCfredat\\dersler\\5-) .net core i\u00E7in\\5-) .net core\\21. ders\\divisima\\divisima.bl\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E90ACB-D4F2-432A-839C-8CAC35B40BBE}|Divisima.BL\\Divisima.BL.csproj|solutionrelative:divisima.bl\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|c:\\users\\netuv\\desktop\\serhat\\kurum dosyalari\\m\u00FCfredat\\dersler\\5-) .net core i\u00E7in\\5-) .net core\\21. ders\\divisima\\divisima.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AC89E761-7D4B-4E95-8AD1-60124F0D3E15}|Divisima.UI\\Divisima.UI.csproj|solutionrelative:divisima.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52A2CB32-CDD9-4D57-BC0D-5B5FB18927F2}|Divisima.DAL\\Divisima.DAL.csproj|c:\\users\\netuv\\desktop\\serhat\\kurum dosyalari\\m\u00FCfredat\\dersler\\5-) .net core i\u00E7in\\5-) .net core\\21. ders\\divisima\\divisima.dal\\migrations\\20230726214335_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52A2CB32-CDD9-4D57-BC0D-5B5FB18927F2}|Divisima.DAL\\Divisima.DAL.csproj|solutionrelative:divisima.dal\\migrations\\20230726214335_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52A2CB32-CDD9-4D57-BC0D-5B5FB18927F2}|Divisima.DAL\\Divisima.DAL.csproj|c:\\users\\netuv\\desktop\\serhat\\kurum dosyalari\\m\u00FCfredat\\dersler\\5-) .net core i\u00E7in\\5-) .net core\\21. ders\\divisima\\divisima.dal\\migrations\\20230726223439_blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52A2CB32-CDD9-4D57-BC0D-5B5FB18927F2}|Divisima.DAL\\Divisima.DAL.csproj|solutionrelative:divisima.dal\\migrations\\20230726223439_blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "Divisima.UI\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Models\\Cart.cs",
+              "RelativeToolTip": "Divisima.UI\\Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T17:42:28.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\ViewModels\\ProductVM.cs",
+              "RelativeDocumentMoniker": "Divisima.UI\\ViewModels\\ProductVM.cs",
+              "ToolTip": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\ViewModels\\ProductVM.cs",
+              "RelativeToolTip": "Divisima.UI\\ViewModels\\ProductVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T18:30:52.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Areas\\admin\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Divisima.UI\\Areas\\admin\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Areas\\admin\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "Divisima.UI\\Areas\\admin\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T18:39:34.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Areas\\admin\\Views\\Slide\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Divisima.UI\\Areas\\admin\\Views\\Slide\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Areas\\admin\\Views\\Slide\\Edit.cshtml",
+              "RelativeToolTip": "Divisima.UI\\Areas\\admin\\Views\\Slide\\Edit.cshtml",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T18:16:32.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Slide.cs",
+              "DocumentMoniker": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.DAL\\Entities\\Slide.cs",
+              "RelativeDocumentMoniker": "Divisima.DAL\\Entities\\Slide.cs",
+              "ToolTip": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.DAL\\Entities\\Slide.cs",
+              "RelativeToolTip": "Divisima.DAL\\Entities\\Slide.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T16:34:52.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "SQLRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.BL\\Repositories\\SQLRepository.cs",
+              "RelativeDocumentMoniker": "Divisima.BL\\Repositories\\SQLRepository.cs",
+              "ToolTip": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.BL\\Repositories\\SQLRepository.cs",
+              "RelativeToolTip": "Divisima.BL\\Repositories\\SQLRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:30:02.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20230726214335_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.DAL\\Migrations\\20230726214335_Initial.cs",
+              "RelativeDocumentMoniker": "Divisima.DAL\\Migrations\\20230726214335_Initial.cs",
+              "ToolTip": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.DAL\\Migrations\\20230726214335_Initial.cs",
+              "RelativeToolTip": "Divisima.DAL\\Migrations\\20230726214335_Initial.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T14:18:50.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Areas\\admin\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "Divisima.UI\\Areas\\admin\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Areas\\admin\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "Divisima.UI\\Areas\\admin\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC0AAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T18:39:54.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Divisima.UI\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Divisima.UI\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T15:29:58.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Views\\Product\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Divisima.UI\\Views\\Product\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Views\\Product\\Detail.cshtml",
+              "RelativeToolTip": "Divisima.UI\\Views\\Product\\Detail.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAawA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T15:48:20.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Divisima.UI\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Divisima.UI\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAHMBAAAAAAAAAAAowEsBAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-11T16:57:58.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Divisima.UI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Divisima.UI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T18:35:51.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Program.cs",
+              "RelativeDocumentMoniker": "Divisima.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Program.cs",
+              "RelativeToolTip": "Divisima.UI\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T16:12:54.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Areas\\admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Divisima.UI\\Areas\\admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Areas\\admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Divisima.UI\\Areas\\admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAIwBwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T13:10:17.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GeneralTools.cs",
+              "DocumentMoniker": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Tools\\GeneralTools.cs",
+              "RelativeDocumentMoniker": "Divisima.UI\\Tools\\GeneralTools.cs",
+              "ToolTip": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Tools\\GeneralTools.cs",
+              "RelativeToolTip": "Divisima.UI\\Tools\\GeneralTools.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T16:25:47.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Divisima.UI\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Divisima.UI\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAC4BAAAAAAAAAAAMwKQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T10:36:49.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.DAL\\Entities\\Admin.cs",
+              "RelativeDocumentMoniker": "Divisima.DAL\\Entities\\Admin.cs",
+              "ToolTip": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.DAL\\Entities\\Admin.cs",
+              "RelativeToolTip": "Divisima.DAL\\Entities\\Admin.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAACPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T16:12:23.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SQLContext.cs",
+              "DocumentMoniker": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.DAL\\Context\\SQLContext.cs",
+              "RelativeDocumentMoniker": "Divisima.DAL\\Context\\SQLContext.cs",
+              "ToolTip": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.DAL\\Context\\SQLContext.cs",
+              "RelativeToolTip": "Divisima.DAL\\Context\\SQLContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAASwAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T16:24:09.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\appsettings.json",
+              "RelativeDocumentMoniker": "Divisima.UI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\appsettings.json",
+              "RelativeToolTip": "Divisima.UI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-17T16:40:24.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.BL\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Divisima.BL\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.BL\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Divisima.BL\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:19:00.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20230726223439_Blog.cs",
+              "DocumentMoniker": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.DAL\\Migrations\\20230726223439_Blog.cs",
+              "RelativeDocumentMoniker": "Divisima.DAL\\Migrations\\20230726223439_Blog.cs",
+              "ToolTip": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.DAL\\Migrations\\20230726223439_Blog.cs",
+              "RelativeToolTip": "Divisima.DAL\\Migrations\\20230726223439_Blog.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T14:19:36.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Divisima.UI\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Divisima.UI\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAASwLMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T17:09:03.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "RelativeDocumentMoniker": "Divisima.UI\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "RelativeToolTip": "Divisima.UI\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T18:36:07.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "Divisima.UI\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "Divisima.UI\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T15:43:11.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.DAL\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Divisima.DAL\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.DAL\\Entities\\Order.cs",
+              "RelativeToolTip": "Divisima.DAL\\Entities\\Order.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAkwFIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T16:53:02.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.DAL\\Entities\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "Divisima.DAL\\Entities\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.DAL\\Entities\\OrderDetail.cs",
+              "RelativeToolTip": "Divisima.DAL\\Entities\\OrderDetail.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T17:03:44.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Views\\Cart\\checkout.cshtml",
+              "RelativeDocumentMoniker": "Divisima.UI\\Views\\Cart\\checkout.cshtml",
+              "ToolTip": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Views\\Cart\\checkout.cshtml",
+              "RelativeToolTip": "Divisima.UI\\Views\\Cart\\checkout.cshtml",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAAG4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T17:28:46.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Product.cshtml",
+              "DocumentMoniker": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Views\\Shared\\_Product.cshtml",
+              "RelativeDocumentMoniker": "Divisima.UI\\Views\\Shared\\_Product.cshtml",
+              "ToolTip": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Views\\Shared\\_Product.cshtml",
+              "RelativeToolTip": "Divisima.UI\\Views\\Shared\\_Product.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-04T18:31:46.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Divisima.UI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Divisima.UI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-04T18:34:13.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IndexVM.cs",
+              "DocumentMoniker": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\ViewModels\\IndexVM.cs",
+              "RelativeDocumentMoniker": "Divisima.UI\\ViewModels\\IndexVM.cs",
+              "ToolTip": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\ViewModels\\IndexVM.cs",
+              "RelativeToolTip": "Divisima.UI\\ViewModels\\IndexVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T09:50:10.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Divisima.UI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Divisima.UI\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T18:16:21.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Areas\\admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Divisima.UI\\Areas\\admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Areas\\admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Divisima.UI\\Areas\\admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAwwEIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T08:35:22.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductPictureController.cs",
+              "DocumentMoniker": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Areas\\admin\\Controllers\\ProductPictureController.cs",
+              "RelativeDocumentMoniker": "Divisima.UI\\Areas\\admin\\Controllers\\ProductPictureController.cs",
+              "ToolTip": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Areas\\admin\\Controllers\\ProductPictureController.cs",
+              "RelativeToolTip": "Divisima.UI\\Areas\\admin\\Controllers\\ProductPictureController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T11:07:42.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.DAL\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Divisima.DAL\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.DAL\\Entities\\Category.cs",
+              "RelativeToolTip": "Divisima.DAL\\Entities\\Category.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T10:32:22.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.DAL\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Divisima.DAL\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.DAL\\Entities\\Product.cs",
+              "RelativeToolTip": "Divisima.DAL\\Entities\\Product.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAuwCgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T07:46:01.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Areas\\admin\\ViewModels\\ProductVM.cs",
+              "RelativeDocumentMoniker": "Divisima.UI\\Areas\\admin\\ViewModels\\ProductVM.cs",
+              "ToolTip": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Areas\\admin\\ViewModels\\ProductVM.cs",
+              "RelativeToolTip": "Divisima.UI\\Areas\\admin\\ViewModels\\ProductVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T08:48:00.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "New.cshtml",
+              "DocumentMoniker": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Areas\\admin\\Views\\Product\\New.cshtml",
+              "RelativeDocumentMoniker": "Divisima.UI\\Areas\\admin\\Views\\Product\\New.cshtml",
+              "ToolTip": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Areas\\admin\\Views\\Product\\New.cshtml",
+              "RelativeToolTip": "Divisima.UI\\Areas\\admin\\Views\\Product\\New.cshtml",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T08:56:38.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductPicture.cs",
+              "DocumentMoniker": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.DAL\\Entities\\ProductPicture.cs",
+              "RelativeDocumentMoniker": "Divisima.DAL\\Entities\\ProductPicture.cs",
+              "ToolTip": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.DAL\\Entities\\ProductPicture.cs",
+              "RelativeToolTip": "Divisima.DAL\\Entities\\ProductPicture.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T10:34:44.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Areas\\admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Divisima.UI\\Areas\\admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Areas\\admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Divisima.UI\\Areas\\admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAcwDIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T11:03:41.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Areas\\admin\\Views\\ProductPicture\\Index.cshtml",
+              "RelativeDocumentMoniker": "Divisima.UI\\Areas\\admin\\Views\\ProductPicture\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Areas\\admin\\Views\\ProductPicture\\Index.cshtml",
+              "RelativeToolTip": "Divisima.UI\\Areas\\admin\\Views\\ProductPicture\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T11:09:38.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "New.cshtml",
+              "DocumentMoniker": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Areas\\admin\\Views\\ProductPicture\\New.cshtml",
+              "RelativeDocumentMoniker": "Divisima.UI\\Areas\\admin\\Views\\ProductPicture\\New.cshtml",
+              "ToolTip": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Areas\\admin\\Views\\ProductPicture\\New.cshtml",
+              "RelativeToolTip": "Divisima.UI\\Areas\\admin\\Views\\ProductPicture\\New.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T11:13:07.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Areas\\admin\\Views\\ProductPicture\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Divisima.UI\\Areas\\admin\\Views\\ProductPicture\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Areas\\admin\\Views\\ProductPicture\\Edit.cshtml",
+              "RelativeToolTip": "Divisima.UI\\Areas\\admin\\Views\\ProductPicture\\Edit.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T11:21:35.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Areas\\admin\\Views\\Slide\\Index.cshtml",
+              "RelativeDocumentMoniker": "Divisima.UI\\Areas\\admin\\Views\\Slide\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Areas\\admin\\Views\\Slide\\Index.cshtml",
+              "RelativeToolTip": "Divisima.UI\\Areas\\admin\\Views\\Slide\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T09:16:14.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "New.cshtml",
+              "DocumentMoniker": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Areas\\admin\\Views\\Slide\\New.cshtml",
+              "RelativeDocumentMoniker": "Divisima.UI\\Areas\\admin\\Views\\Slide\\New.cshtml",
+              "ToolTip": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Areas\\admin\\Views\\Slide\\New.cshtml",
+              "RelativeToolTip": "Divisima.UI\\Areas\\admin\\Views\\Slide\\New.cshtml",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T07:56:26.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "SlideController.cs",
+              "DocumentMoniker": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Areas\\admin\\Controllers\\SlideController.cs",
+              "RelativeDocumentMoniker": "Divisima.UI\\Areas\\admin\\Controllers\\SlideController.cs",
+              "ToolTip": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Areas\\admin\\Controllers\\SlideController.cs",
+              "RelativeToolTip": "Divisima.UI\\Areas\\admin\\Controllers\\SlideController.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAcwDoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T07:56:15.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "Divisima.UI\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "Divisima.UI\\wwwroot\\css\\style.css",
+              "ViewState": "AgIAAHoJAAAAAAAAAABwPSoIAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-17T16:04:24.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Areas\\admin\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "Divisima.UI\\Areas\\admin\\Controllers\\BrandController.cs",
+              "ToolTip": "C:\\Users\\Netuv\\Desktop\\Serhat\\KURUM DOSYALARI\\M\u00DCFREDAT\\DERSLER\\5-) .Net Core i\u00E7in\\5-) .Net Core\\21. Ders\\Divisima\\Divisima.UI\\Areas\\admin\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "Divisima.UI\\Areas\\admin\\Controllers\\BrandController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T14:01:26.254Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

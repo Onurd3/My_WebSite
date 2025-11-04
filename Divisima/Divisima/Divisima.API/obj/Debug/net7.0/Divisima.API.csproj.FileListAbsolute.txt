@@ -1,0 +1,297 @@
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\10. Ders (PROJEBAŞLAR)\Proje Burada\Divisima\Divisima.API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\10. Ders (PROJEBAŞLAR)\Proje Burada\Divisima\Divisima.API\bin\Debug\net7.0\appsettings.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\10. Ders (PROJEBAŞLAR)\Proje Burada\Divisima\Divisima.API\bin\Debug\net7.0\Divisima.API.exe
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\10. Ders (PROJEBAŞLAR)\Proje Burada\Divisima\Divisima.API\bin\Debug\net7.0\Divisima.API.deps.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\10. Ders (PROJEBAŞLAR)\Proje Burada\Divisima\Divisima.API\bin\Debug\net7.0\Divisima.API.runtimeconfig.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\10. Ders (PROJEBAŞLAR)\Proje Burada\Divisima\Divisima.API\bin\Debug\net7.0\Divisima.API.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\10. Ders (PROJEBAŞLAR)\Proje Burada\Divisima\Divisima.API\bin\Debug\net7.0\Divisima.API.pdb
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\10. Ders (PROJEBAŞLAR)\Proje Burada\Divisima\Divisima.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\10. Ders (PROJEBAŞLAR)\Proje Burada\Divisima\Divisima.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\10. Ders (PROJEBAŞLAR)\Proje Burada\Divisima\Divisima.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\10. Ders (PROJEBAŞLAR)\Proje Burada\Divisima\Divisima.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\10. Ders (PROJEBAŞLAR)\Proje Burada\Divisima\Divisima.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\10. Ders (PROJEBAŞLAR)\Proje Burada\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.csproj.AssemblyReference.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\10. Ders (PROJEBAŞLAR)\Proje Burada\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\10. Ders (PROJEBAŞLAR)\Proje Burada\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.AssemblyInfoInputs.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\10. Ders (PROJEBAŞLAR)\Proje Burada\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.AssemblyInfo.cs
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\10. Ders (PROJEBAŞLAR)\Proje Burada\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.csproj.CoreCompileInputs.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\10. Ders (PROJEBAŞLAR)\Proje Burada\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\10. Ders (PROJEBAŞLAR)\Proje Burada\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\10. Ders (PROJEBAŞLAR)\Proje Burada\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets\msbuild.Divisima.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\10. Ders (PROJEBAŞLAR)\Proje Burada\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets\msbuild.build.Divisima.API.props
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\10. Ders (PROJEBAŞLAR)\Proje Burada\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Divisima.API.props
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\10. Ders (PROJEBAŞLAR)\Proje Burada\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Divisima.API.props
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\10. Ders (PROJEBAŞLAR)\Proje Burada\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\10. Ders (PROJEBAŞLAR)\Proje Burada\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\10. Ders (PROJEBAŞLAR)\Proje Burada\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\10. Ders (PROJEBAŞLAR)\Proje Burada\Divisima\Divisima.API\obj\Debug\net7.0\scopedcss\bundle\Divisima.API.styles.css
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\10. Ders (PROJEBAŞLAR)\Proje Burada\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.csproj.CopyComplete
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\10. Ders (PROJEBAŞLAR)\Proje Burada\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\10. Ders (PROJEBAŞLAR)\Proje Burada\Divisima\Divisima.API\obj\Debug\net7.0\refint\Divisima.API.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\10. Ders (PROJEBAŞLAR)\Proje Burada\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.pdb
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\10. Ders (PROJEBAŞLAR)\Proje Burada\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.genruntimeconfig.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\10. Ders (PROJEBAŞLAR)\Proje Burada\Divisima\Divisima.API\obj\Debug\net7.0\ref\Divisima.API.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\12. Ders\Divisima\Divisima.API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\12. Ders\Divisima\Divisima.API\bin\Debug\net7.0\appsettings.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\12. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Divisima.API.exe
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\12. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Divisima.API.deps.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\12. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Divisima.API.runtimeconfig.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\12. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Divisima.API.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\12. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Divisima.API.pdb
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\12. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\12. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\12. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\12. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\12. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\12. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.csproj.AssemblyReference.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\12. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\12. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.AssemblyInfoInputs.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\12. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.AssemblyInfo.cs
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\12. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.csproj.CoreCompileInputs.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\12. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\12. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\12. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets\msbuild.Divisima.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\12. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets\msbuild.build.Divisima.API.props
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\12. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Divisima.API.props
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\12. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Divisima.API.props
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\12. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\12. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\12. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\12. Ders\Divisima\Divisima.API\obj\Debug\net7.0\scopedcss\bundle\Divisima.API.styles.css
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\12. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.csproj.CopyComplete
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\12. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\12. Ders\Divisima\Divisima.API\obj\Debug\net7.0\refint\Divisima.API.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\12. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.pdb
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\12. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.genruntimeconfig.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\12. Ders\Divisima\Divisima.API\obj\Debug\net7.0\ref\Divisima.API.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\14. Ders\Divisima\Divisima.API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\14. Ders\Divisima\Divisima.API\bin\Debug\net7.0\appsettings.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\14. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Divisima.API.exe
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\14. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Divisima.API.deps.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\14. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Divisima.API.runtimeconfig.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\14. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Divisima.API.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\14. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Divisima.API.pdb
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\14. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\14. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\14. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\14. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\14. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\14. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.csproj.AssemblyReference.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\14. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\14. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.AssemblyInfoInputs.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\14. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.AssemblyInfo.cs
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\14. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.csproj.CoreCompileInputs.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\14. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\14. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\14. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets\msbuild.Divisima.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\14. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets\msbuild.build.Divisima.API.props
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\14. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Divisima.API.props
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\14. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Divisima.API.props
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\14. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\14. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\14. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\14. Ders\Divisima\Divisima.API\obj\Debug\net7.0\scopedcss\bundle\Divisima.API.styles.css
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\14. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.csproj.CopyComplete
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\14. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\14. Ders\Divisima\Divisima.API\obj\Debug\net7.0\refint\Divisima.API.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\14. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.pdb
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\14. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.genruntimeconfig.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\14. Ders\Divisima\Divisima.API\obj\Debug\net7.0\ref\Divisima.API.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\15. Ders\Divisima\Divisima.API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\15. Ders\Divisima\Divisima.API\bin\Debug\net7.0\appsettings.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\15. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Divisima.API.exe
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\15. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Divisima.API.deps.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\15. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Divisima.API.runtimeconfig.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\15. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Divisima.API.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\15. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Divisima.API.pdb
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\15. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\15. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\15. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\15. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\15. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\15. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.csproj.AssemblyReference.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\15. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\15. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.AssemblyInfoInputs.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\15. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.AssemblyInfo.cs
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\15. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.csproj.CoreCompileInputs.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\15. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\15. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\15. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets\msbuild.Divisima.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\15. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets\msbuild.build.Divisima.API.props
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\15. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Divisima.API.props
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\15. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Divisima.API.props
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\15. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\15. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\15. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\15. Ders\Divisima\Divisima.API\obj\Debug\net7.0\scopedcss\bundle\Divisima.API.styles.css
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\15. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.csproj.CopyComplete
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\15. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\15. Ders\Divisima\Divisima.API\obj\Debug\net7.0\refint\Divisima.API.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\15. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.pdb
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\15. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.genruntimeconfig.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\15. Ders\Divisima\Divisima.API\obj\Debug\net7.0\ref\Divisima.API.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\16. Ders\Divisima\Divisima.API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\16. Ders\Divisima\Divisima.API\bin\Debug\net7.0\appsettings.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\16. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Divisima.API.exe
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\16. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Divisima.API.deps.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\16. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Divisima.API.runtimeconfig.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\16. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Divisima.API.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\16. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Divisima.API.pdb
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\16. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\16. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\16. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\16. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\16. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\16. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.csproj.AssemblyReference.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\16. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\16. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.AssemblyInfoInputs.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\16. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.AssemblyInfo.cs
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\16. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.csproj.CoreCompileInputs.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\16. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\16. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\16. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets\msbuild.Divisima.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\16. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets\msbuild.build.Divisima.API.props
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\16. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Divisima.API.props
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\16. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Divisima.API.props
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\16. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\16. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\16. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\16. Ders\Divisima\Divisima.API\obj\Debug\net7.0\scopedcss\bundle\Divisima.API.styles.css
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\16. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.csproj.CopyComplete
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\16. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\16. Ders\Divisima\Divisima.API\obj\Debug\net7.0\refint\Divisima.API.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\16. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.pdb
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\16. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.genruntimeconfig.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\16. Ders\Divisima\Divisima.API\obj\Debug\net7.0\ref\Divisima.API.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\18. Ders\Divisima\Divisima.API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\18. Ders\Divisima\Divisima.API\bin\Debug\net7.0\appsettings.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\18. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Divisima.API.exe
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\18. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Divisima.API.deps.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\18. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Divisima.API.runtimeconfig.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\18. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Divisima.API.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\18. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Divisima.API.pdb
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\18. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\18. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\18. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\18. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\18. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\18. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.csproj.AssemblyReference.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\18. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\18. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.AssemblyInfoInputs.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\18. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.AssemblyInfo.cs
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\18. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.csproj.CoreCompileInputs.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\18. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\18. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\18. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets\msbuild.Divisima.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\18. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets\msbuild.build.Divisima.API.props
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\18. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Divisima.API.props
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\18. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Divisima.API.props
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\18. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\18. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\18. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\18. Ders\Divisima\Divisima.API\obj\Debug\net7.0\scopedcss\bundle\Divisima.API.styles.css
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\18. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.csproj.CopyComplete
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\18. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\18. Ders\Divisima\Divisima.API\obj\Debug\net7.0\refint\Divisima.API.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\18. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.pdb
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\18. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.genruntimeconfig.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\18. Ders\Divisima\Divisima.API\obj\Debug\net7.0\ref\Divisima.API.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\19. Ders\Divisima\Divisima.API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\19. Ders\Divisima\Divisima.API\bin\Debug\net7.0\appsettings.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\19. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Divisima.API.exe
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\19. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Divisima.API.deps.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\19. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Divisima.API.runtimeconfig.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\19. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Divisima.API.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\19. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Divisima.API.pdb
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\19. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\19. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\19. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\19. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\19. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\19. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.csproj.AssemblyReference.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\19. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\19. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.AssemblyInfoInputs.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\19. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.AssemblyInfo.cs
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\19. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.csproj.CoreCompileInputs.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\19. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\19. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\19. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets\msbuild.Divisima.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\19. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets\msbuild.build.Divisima.API.props
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\19. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Divisima.API.props
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\19. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Divisima.API.props
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\19. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\19. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\19. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\19. Ders\Divisima\Divisima.API\obj\Debug\net7.0\scopedcss\bundle\Divisima.API.styles.css
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\19. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.csproj.CopyComplete
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\19. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\19. Ders\Divisima\Divisima.API\obj\Debug\net7.0\refint\Divisima.API.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\19. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.pdb
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\19. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.genruntimeconfig.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\19. Ders\Divisima\Divisima.API\obj\Debug\net7.0\ref\Divisima.API.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\20. Ders\Divisima\Divisima.API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\20. Ders\Divisima\Divisima.API\bin\Debug\net7.0\appsettings.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\20. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Divisima.API.exe
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\20. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Divisima.API.deps.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\20. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Divisima.API.runtimeconfig.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\20. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Divisima.API.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\20. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Divisima.API.pdb
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\20. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\20. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\20. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\20. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\20. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\20. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.csproj.AssemblyReference.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\20. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\20. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.AssemblyInfoInputs.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\20. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.AssemblyInfo.cs
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\20. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.csproj.CoreCompileInputs.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\20. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\20. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\20. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets\msbuild.Divisima.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\20. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets\msbuild.build.Divisima.API.props
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\20. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Divisima.API.props
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\20. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Divisima.API.props
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\20. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\20. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\20. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\20. Ders\Divisima\Divisima.API\obj\Debug\net7.0\scopedcss\bundle\Divisima.API.styles.css
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\20. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.csproj.CopyComplete
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\20. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\20. Ders\Divisima\Divisima.API\obj\Debug\net7.0\refint\Divisima.API.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\20. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.pdb
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\20. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.genruntimeconfig.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\20. Ders\Divisima\Divisima.API\obj\Debug\net7.0\ref\Divisima.API.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\21. Ders\Divisima\Divisima.API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\21. Ders\Divisima\Divisima.API\bin\Debug\net7.0\appsettings.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\21. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Divisima.API.exe
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\21. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Divisima.API.deps.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\21. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Divisima.API.runtimeconfig.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\21. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Divisima.API.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\21. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Divisima.API.pdb
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\21. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\21. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\21. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\21. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\21. Ders\Divisima\Divisima.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\21. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.csproj.AssemblyReference.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\21. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\21. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.AssemblyInfoInputs.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\21. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.AssemblyInfo.cs
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\21. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.csproj.CoreCompileInputs.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\21. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\21. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\21. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets\msbuild.Divisima.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\21. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets\msbuild.build.Divisima.API.props
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\21. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Divisima.API.props
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\21. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Divisima.API.props
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\21. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\21. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\21. Ders\Divisima\Divisima.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\21. Ders\Divisima\Divisima.API\obj\Debug\net7.0\scopedcss\bundle\Divisima.API.styles.css
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\21. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.csproj.CopyComplete
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\21. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\21. Ders\Divisima\Divisima.API\obj\Debug\net7.0\refint\Divisima.API.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\21. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.pdb
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\21. Ders\Divisima\Divisima.API\obj\Debug\net7.0\Divisima.API.genruntimeconfig.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\21. Ders\Divisima\Divisima.API\obj\Debug\net7.0\ref\Divisima.API.dll

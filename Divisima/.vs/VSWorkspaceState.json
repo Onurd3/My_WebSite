@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Divisima",
+    "\\Divisima\\Divisima.API",
+    "\\Divisima\\Divisima.BL",
+    "\\Divisima\\Divisima.DAL",
+    "\\Divisima\\Divisima.DAL\\Context",
+    "\\Divisima\\Divisima.UI"
+  ],
+  "SelectedNode": "\\Divisima\\Divisima.DAL\\Context\\SQLContext.cs",
+  "PreviewInSolutionExplorer": false
+}

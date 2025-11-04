@@ -1,0 +1,171 @@
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\10. Ders (PROJEBAŞLAR)\Proje Burada\Divisima\Divisima.DAL\bin\Debug\net7.0\Divisima.DAL.deps.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\10. Ders (PROJEBAŞLAR)\Proje Burada\Divisima\Divisima.DAL\bin\Debug\net7.0\Divisima.DAL.runtimeconfig.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\10. Ders (PROJEBAŞLAR)\Proje Burada\Divisima\Divisima.DAL\bin\Debug\net7.0\Divisima.DAL.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\10. Ders (PROJEBAŞLAR)\Proje Burada\Divisima\Divisima.DAL\bin\Debug\net7.0\Divisima.DAL.pdb
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\10. Ders (PROJEBAŞLAR)\Proje Burada\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.csproj.AssemblyReference.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\10. Ders (PROJEBAŞLAR)\Proje Burada\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\10. Ders (PROJEBAŞLAR)\Proje Burada\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.AssemblyInfoInputs.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\10. Ders (PROJEBAŞLAR)\Proje Burada\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.AssemblyInfo.cs
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\10. Ders (PROJEBAŞLAR)\Proje Burada\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\10. Ders (PROJEBAŞLAR)\Proje Burada\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\10. Ders (PROJEBAŞLAR)\Proje Burada\Divisima\Divisima.DAL\obj\Debug\net7.0\refint\Divisima.DAL.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\10. Ders (PROJEBAŞLAR)\Proje Burada\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.pdb
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\10. Ders (PROJEBAŞLAR)\Proje Burada\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.genruntimeconfig.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\10. Ders (PROJEBAŞLAR)\Proje Burada\Divisima\Divisima.DAL\obj\Debug\net7.0\ref\Divisima.DAL.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\11. Ders\Divisima\Divisima.DAL\bin\Debug\net7.0\Divisima.DAL.deps.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\11. Ders\Divisima\Divisima.DAL\bin\Debug\net7.0\Divisima.DAL.runtimeconfig.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\11. Ders\Divisima\Divisima.DAL\bin\Debug\net7.0\Divisima.DAL.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\11. Ders\Divisima\Divisima.DAL\bin\Debug\net7.0\Divisima.DAL.pdb
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\11. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.csproj.AssemblyReference.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\11. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\11. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.AssemblyInfoInputs.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\11. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.AssemblyInfo.cs
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\11. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\11. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\11. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\refint\Divisima.DAL.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\11. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.pdb
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\11. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.genruntimeconfig.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\11. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\ref\Divisima.DAL.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\12. Ders\Divisima\Divisima.DAL\bin\Debug\net7.0\Divisima.DAL.deps.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\12. Ders\Divisima\Divisima.DAL\bin\Debug\net7.0\Divisima.DAL.runtimeconfig.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\12. Ders\Divisima\Divisima.DAL\bin\Debug\net7.0\Divisima.DAL.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\12. Ders\Divisima\Divisima.DAL\bin\Debug\net7.0\Divisima.DAL.pdb
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\12. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.csproj.AssemblyReference.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\12. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\12. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.AssemblyInfoInputs.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\12. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.AssemblyInfo.cs
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\12. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\12. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\12. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\refint\Divisima.DAL.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\12. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.pdb
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\12. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.genruntimeconfig.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\12. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\ref\Divisima.DAL.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\13. Ders\Divisima\Divisima.DAL\bin\Debug\net7.0\Divisima.DAL.deps.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\13. Ders\Divisima\Divisima.DAL\bin\Debug\net7.0\Divisima.DAL.runtimeconfig.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\13. Ders\Divisima\Divisima.DAL\bin\Debug\net7.0\Divisima.DAL.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\13. Ders\Divisima\Divisima.DAL\bin\Debug\net7.0\Divisima.DAL.pdb
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\13. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.csproj.AssemblyReference.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\13. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\13. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.AssemblyInfoInputs.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\13. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.AssemblyInfo.cs
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\13. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\13. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\13. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\refint\Divisima.DAL.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\13. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.pdb
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\13. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.genruntimeconfig.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\13. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\ref\Divisima.DAL.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\14. Ders\Divisima\Divisima.DAL\bin\Debug\net7.0\Divisima.DAL.deps.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\14. Ders\Divisima\Divisima.DAL\bin\Debug\net7.0\Divisima.DAL.runtimeconfig.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\14. Ders\Divisima\Divisima.DAL\bin\Debug\net7.0\Divisima.DAL.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\14. Ders\Divisima\Divisima.DAL\bin\Debug\net7.0\Divisima.DAL.pdb
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\14. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.csproj.AssemblyReference.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\14. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\14. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.AssemblyInfoInputs.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\14. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.AssemblyInfo.cs
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\14. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\14. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\14. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\refint\Divisima.DAL.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\14. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.pdb
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\14. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.genruntimeconfig.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\14. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\ref\Divisima.DAL.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\15. Ders\Divisima\Divisima.DAL\bin\Debug\net7.0\Divisima.DAL.deps.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\15. Ders\Divisima\Divisima.DAL\bin\Debug\net7.0\Divisima.DAL.runtimeconfig.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\15. Ders\Divisima\Divisima.DAL\bin\Debug\net7.0\Divisima.DAL.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\15. Ders\Divisima\Divisima.DAL\bin\Debug\net7.0\Divisima.DAL.pdb
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\15. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.csproj.AssemblyReference.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\15. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\15. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.AssemblyInfoInputs.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\15. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.AssemblyInfo.cs
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\15. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\15. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\15. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\refint\Divisima.DAL.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\15. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.pdb
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\15. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.genruntimeconfig.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\15. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\ref\Divisima.DAL.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\16. Ders\Divisima\Divisima.DAL\bin\Debug\net7.0\Divisima.DAL.deps.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\16. Ders\Divisima\Divisima.DAL\bin\Debug\net7.0\Divisima.DAL.runtimeconfig.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\16. Ders\Divisima\Divisima.DAL\bin\Debug\net7.0\Divisima.DAL.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\16. Ders\Divisima\Divisima.DAL\bin\Debug\net7.0\Divisima.DAL.pdb
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\16. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.csproj.AssemblyReference.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\16. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\16. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.AssemblyInfoInputs.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\16. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.AssemblyInfo.cs
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\16. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\16. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\16. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\refint\Divisima.DAL.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\16. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.pdb
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\16. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.genruntimeconfig.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\16. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\ref\Divisima.DAL.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\17. Ders\Divisima\Divisima.DAL\bin\Debug\net7.0\Divisima.DAL.deps.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\17. Ders\Divisima\Divisima.DAL\bin\Debug\net7.0\Divisima.DAL.runtimeconfig.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\17. Ders\Divisima\Divisima.DAL\bin\Debug\net7.0\Divisima.DAL.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\17. Ders\Divisima\Divisima.DAL\bin\Debug\net7.0\Divisima.DAL.pdb
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\17. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.csproj.AssemblyReference.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\17. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\17. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.AssemblyInfoInputs.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\17. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.AssemblyInfo.cs
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\17. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\17. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\17. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\refint\Divisima.DAL.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\17. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.pdb
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\17. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.genruntimeconfig.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\17. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\ref\Divisima.DAL.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\18. Ders\Divisima\Divisima.DAL\bin\Debug\net7.0\Divisima.DAL.deps.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\18. Ders\Divisima\Divisima.DAL\bin\Debug\net7.0\Divisima.DAL.runtimeconfig.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\18. Ders\Divisima\Divisima.DAL\bin\Debug\net7.0\Divisima.DAL.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\18. Ders\Divisima\Divisima.DAL\bin\Debug\net7.0\Divisima.DAL.pdb
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\18. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.csproj.AssemblyReference.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\18. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\18. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.AssemblyInfoInputs.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\18. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.AssemblyInfo.cs
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\18. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\18. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\18. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\refint\Divisima.DAL.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\18. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.pdb
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\18. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.genruntimeconfig.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\18. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\ref\Divisima.DAL.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\19. Ders\Divisima\Divisima.DAL\bin\Debug\net7.0\Divisima.DAL.deps.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\19. Ders\Divisima\Divisima.DAL\bin\Debug\net7.0\Divisima.DAL.runtimeconfig.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\19. Ders\Divisima\Divisima.DAL\bin\Debug\net7.0\Divisima.DAL.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\19. Ders\Divisima\Divisima.DAL\bin\Debug\net7.0\Divisima.DAL.pdb
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\19. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.csproj.AssemblyReference.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\19. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\19. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.AssemblyInfoInputs.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\19. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.AssemblyInfo.cs
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\19. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\19. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\19. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\refint\Divisima.DAL.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\19. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.pdb
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\19. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.genruntimeconfig.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\19. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\ref\Divisima.DAL.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\20. Ders\Divisima\Divisima.DAL\bin\Debug\net7.0\Divisima.DAL.deps.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\20. Ders\Divisima\Divisima.DAL\bin\Debug\net7.0\Divisima.DAL.runtimeconfig.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\20. Ders\Divisima\Divisima.DAL\bin\Debug\net7.0\Divisima.DAL.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\20. Ders\Divisima\Divisima.DAL\bin\Debug\net7.0\Divisima.DAL.pdb
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\20. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.csproj.AssemblyReference.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\20. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\20. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.AssemblyInfoInputs.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\20. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.AssemblyInfo.cs
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\20. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\20. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\20. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\refint\Divisima.DAL.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\20. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.pdb
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\20. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.genruntimeconfig.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\20. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\ref\Divisima.DAL.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\21. Ders\Divisima\Divisima.DAL\bin\Debug\net7.0\Divisima.DAL.deps.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\21. Ders\Divisima\Divisima.DAL\bin\Debug\net7.0\Divisima.DAL.runtimeconfig.json
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\21. Ders\Divisima\Divisima.DAL\bin\Debug\net7.0\Divisima.DAL.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\21. Ders\Divisima\Divisima.DAL\bin\Debug\net7.0\Divisima.DAL.pdb
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\21. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.csproj.AssemblyReference.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\21. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\21. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.AssemblyInfoInputs.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\21. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.AssemblyInfo.cs
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\21. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\21. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\21. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\refint\Divisima.DAL.dll
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\21. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.pdb
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\21. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.genruntimeconfig.cache
+C:\Users\Netuv\Desktop\Serhat\KURUM DOSYALARI\MÜFREDAT\DERSLER\5-) .Net Core için\5-) .Net Core\21. Ders\Divisima\Divisima.DAL\obj\Debug\net7.0\ref\Divisima.DAL.dll
+C:\Users\akonu\Desktop\Divisima\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.dll
+C:\Users\akonu\Desktop\Divisima\Divisima\Divisima.DAL\obj\Debug\net7.0\refint\Divisima.DAL.dll
+C:\Users\akonu\Desktop\Divisima\Divisima\Divisima.DAL\obj\Debug\net7.0\Divisima.DAL.pdb
