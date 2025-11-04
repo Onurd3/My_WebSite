@@ -26,13 +26,12 @@ namespace Divisima.UI.Areas.admin.Controllers
 		[HttpPost, ValidateAntiForgeryToken]
 		public async Task<IActionResult> Insert(Slide model)
 		{
-			if (ModelState.IsValid) // Gelen model Doğrulanmışsa
+			if (ModelState.IsValid) 
 			{
-				// Dosya ekleme işlemi aşamasında  -- Bu derste yazılacak
 				if (Request.Form.Files.Any())
 				{
 
-					if (!Directory.Exists(Path.Combine(Directory.GetCurrentDirectory(),"wwwroot","img","slide"))) // dosya yoksa bu scope da oluşturuyor
+					if (!Directory.Exists(Path.Combine(Directory.GetCurrentDirectory(),"wwwroot","img","slide")))
 					{
 						Directory.CreateDirectory(Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "img", "slide"));
 					}
@@ -44,10 +43,6 @@ namespace Divisima.UI.Areas.admin.Controllers
 					model.Picture = "/img/slide/" + dosyaAdi;
 				}
 
-
-
-
-				// Bu kod IRrepository Add metodundan sonra yazılsın
 				repoSlide.Add(model);
 
 				return RedirectToAction("Index");
@@ -66,13 +61,12 @@ namespace Divisima.UI.Areas.admin.Controllers
 		[HttpPost, ValidateAntiForgeryToken]
 		public async Task<IActionResult> Edit(Slide model)
 		{
-			if (ModelState.IsValid) // Gelen model Doğrulanmışsa
+			if (ModelState.IsValid)
 			{
-				// Dosya ekleme işlemi aşamasında  -- Bu derste yazılacak
 				if (Request.Form.Files.Any())
 				{
 
-					if (!Directory.Exists(Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "img", "slide"))) // dosya yoksa bu scope da oluşturuyor
+					if (!Directory.Exists(Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "img", "slide")))
 					{
 						Directory.CreateDirectory(Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "img", "slide"));
 					}
@@ -84,11 +78,6 @@ namespace Divisima.UI.Areas.admin.Controllers
 					model.Picture = "/img/slide/" + dosyaAdi;
 				}
 
-
-
-
-
-				// Bu kod IRrepository Add metodundan sonra yazılsın
 				repoSlide.Update(model);
 
 				return RedirectToAction("Index");
@@ -109,7 +98,7 @@ namespace Divisima.UI.Areas.admin.Controllers
 					if (fileInfo.Exists) fileInfo.Delete();
 				}
 			}
-			repoSlide.Delete(slide); // veri tabanından silme
+			repoSlide.Delete(slide);
 
 			return RedirectToAction("Index");
 		}
