@@ -30,13 +30,12 @@ namespace Divisima.UI.Areas.admin.Controllers
 		[HttpPost, ValidateAntiForgeryToken]
 		public async Task<IActionResult> Insert(ProductPicture model)
 		{
-			if (ModelState.IsValid) // Gelen model Doğrulanmışsa
+			if (ModelState.IsValid)
 			{
-				// Dosya ekleme işlemi aşamasında  -- Bu derste yazılacak
 				if (Request.Form.Files.Any())
 				{
 
-					if (!Directory.Exists(Path.Combine(Directory.GetCurrentDirectory(),"wwwroot","img","productPicture"))) // dosya yoksa bu scope da oluşturuyor
+					if (!Directory.Exists(Path.Combine(Directory.GetCurrentDirectory(),"wwwroot","img","productPicture")))
 					{
 						Directory.CreateDirectory(Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "img", "productPicture"));
 					}
@@ -48,10 +47,6 @@ namespace Divisima.UI.Areas.admin.Controllers
 					model.Picture = "/img/productPicture/" + dosyaAdi;
 				}
 
-
-
-
-				// Bu kod IRrepository Add metodundan sonra yazılsın
 				repoProductPicture.Add(model);
 
 				return RedirectToAction("Index", new { productid = model.ProductID });
@@ -70,13 +65,12 @@ namespace Divisima.UI.Areas.admin.Controllers
 		[HttpPost, ValidateAntiForgeryToken]
 		public async Task<IActionResult> Edit(ProductPicture model)
 		{
-			if (ModelState.IsValid) // Gelen model Doğrulanmışsa
+			if (ModelState.IsValid)
 			{
-				// Dosya ekleme işlemi aşamasında  -- Bu derste yazılacak
 				if (Request.Form.Files.Any())
 				{
 
-					if (!Directory.Exists(Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "img", "productPicture"))) // dosya yoksa bu scope da oluşturuyor
+					if (!Directory.Exists(Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "img", "productPicture"))) 
 					{
 						Directory.CreateDirectory(Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "img", "productPicture"));
 					}
@@ -87,12 +81,6 @@ namespace Divisima.UI.Areas.admin.Controllers
 					}
 					model.Picture = "/img/productPicture/" + dosyaAdi;
 				}
-
-
-
-
-
-				// Bu kod IRrepository Add metodundan sonra yazılsın
 				repoProductPicture.Update(model);
 
 				return RedirectToAction("Index", new { productid = model.ProductID });
