@@ -18,7 +18,6 @@ namespace Divisima.UI.Areas.admin.Controllers
 		{
 			return View(repoBrand.GetAll().OrderByDescending(x => x.ID));
 		}
-
 		public IActionResult New()
 		{
 			return View();
@@ -27,9 +26,8 @@ namespace Divisima.UI.Areas.admin.Controllers
 		[HttpPost, ValidateAntiForgeryToken]
 		public async Task<IActionResult> Insert(Brand model)
 		{
-			if (ModelState.IsValid) // Gelen model Doğrulanmışsa
+			if (ModelState.IsValid) 
 			{
-				// Bu kod IRrepository Add metodundan sonra yazılsın
 				repoBrand.Add(model);
 
 				return RedirectToAction("Index");
@@ -48,7 +46,7 @@ namespace Divisima.UI.Areas.admin.Controllers
 		[HttpPost, ValidateAntiForgeryToken]
 		public async Task<IActionResult> Edit(Brand model)
 		{
-			if (ModelState.IsValid) // Gelen model Doğrulanmışsa
+			if (ModelState.IsValid)
 			{
 				repoBrand.Update(model);
 
