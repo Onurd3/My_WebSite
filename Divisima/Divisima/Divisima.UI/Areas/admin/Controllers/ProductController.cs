@@ -35,18 +35,13 @@ namespace Divisima.UI.Areas.admin.Controllers
 				Categories = repoCategory.GetAll(x => x.ParentID!=null).OrderBy(x => x.Name)
 			};
 			return View(productVM);
-
-
-			// ÖNCE YAZAN
-			// return View();
 		}
 
 		[HttpPost, ValidateAntiForgeryToken]
 		public  IActionResult Insert(ProductVM model)
 		{
-			if (ModelState.IsValid) // Gelen model Doğrulanmışsa
+			if (ModelState.IsValid)
 			{
-				// Bu kod IRrepository Add metodundan sonra yazılsın
 				repoProduct.Add(model.Product);
 
 				return RedirectToAction("Index");
@@ -71,9 +66,8 @@ namespace Divisima.UI.Areas.admin.Controllers
 		[HttpPost, ValidateAntiForgeryToken]
 		public IActionResult Edit(ProductVM model)
 		{
-			if (ModelState.IsValid) // Gelen model Doğrulanmışsa
+			if (ModelState.IsValid) 
 			{
-				// Bu kod IRrepository Add metodundan sonra yazılsın
 				repoProduct.Update(model.Product);
 
 				return RedirectToAction("Index");
