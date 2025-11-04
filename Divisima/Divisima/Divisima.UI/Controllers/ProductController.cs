@@ -51,7 +51,7 @@ namespace Divisima.UI.Controllers
 
 
 		[Route("/urun/ara"), HttpPost]
-		public IActionResult getSearchProduct(string search) // Tüm ürün  ler(metodu get yapıp çalıştırınca /urun/ara?search=olo) =>
+		public IActionResult getSearchProduct(string search)
 		{
 			return Json(repoProduct.GetAll(x => x.Name.ToLower().Contains(search.ToLower())).Include
 			(x => x.ProductPictures).Select(x => new SearchProduct
