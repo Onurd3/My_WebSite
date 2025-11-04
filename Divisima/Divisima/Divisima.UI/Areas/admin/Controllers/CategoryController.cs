@@ -17,7 +17,6 @@ namespace Divisima.UI.Areas.admin.Controllers
         }
         public IActionResult Index()
 		{
-			// return View(repoCategory.GetAll().OrderByDescending(x => x.ID));
 			return View(repoCategory.GetAll().Include(x => x.ParentCategory).OrderByDescending(x => x.ID));
 		}
 
@@ -58,7 +57,7 @@ namespace Divisima.UI.Areas.admin.Controllers
 		public async Task<IActionResult> Edit(CategoryVM model)
 		{
 
-			if (ModelState.IsValid) // Gelen model Doğrulanmışsa
+			if (ModelState.IsValid)
 			{
 				repoCategory.Update(model.Category);
 
