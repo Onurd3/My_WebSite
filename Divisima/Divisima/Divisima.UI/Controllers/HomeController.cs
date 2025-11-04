@@ -51,7 +51,7 @@ namespace Divisima.UI.Controllers
 
 
 
-		// Bu derste
+
 
 		IRepository<Product> repoProduct;
 		IRepository<Slide> repoSlide;
@@ -62,7 +62,7 @@ namespace Divisima.UI.Controllers
 		}
 		public IActionResult Index()
 		{
-			// 18. DERS COOKİE OLUŞTURMA
+
 			//CookieOptions cookie = new CookieOptions();
 			//cookie.Expires = DateTime.Now.AddHours(10);
 			//Response.Cookies.Append("C1", "Infotech Academy", cookie);
