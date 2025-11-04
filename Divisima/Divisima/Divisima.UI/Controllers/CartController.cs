@@ -60,14 +60,11 @@ namespace Divisima.UI.Controllers
 			}
 			return "~ Ürün Bulunamadı";
 		}
-		// Serialize metodu verilen türü stringe dönüştürür. yani Json formatına
-		// Deserialize ise verilen bir stringi istediğim bir türe dönüştürüyor
-
 		[Route("/sepet/sepettensil"), HttpPost]
 		public string RemoveCart(int productid)
 		{
 			string rtn = "";
-			if (Request.Cookies["MyCart"] != null) // cookie varsa
+			if (Request.Cookies["MyCart"] != null)
 			{
 				List<Cart> carts = JsonConvert.DeserializeObject<List<Cart>>(Request.Cookies["MyCart"]);
 				bool varmi = false;
@@ -76,11 +73,11 @@ namespace Divisima.UI.Controllers
 					if (c.ProductID == productid)
 					{
 						varmi = true;
-						carts.Remove(c); // aradığı productid ye sahip ürünü silecek
+						carts.Remove(c);
 						break;
 					}
 				}
-				if (varmi == true) // bir adet ürünü sildiği için cookie yi burada güncelliyoruz
+				if (varmi == true)
 				{
 					CookieOptions options = new();
 					options.Expires = DateTime.Now.AddHours(3);
@@ -134,7 +131,6 @@ namespace Divisima.UI.Controllers
 				};
 
 				return View(checkoutVM);
-
 			}
 			else
 				return Redirect("/");
@@ -143,20 +139,21 @@ namespace Divisima.UI.Controllers
 		[Route("/sepet/alisveristamamla"), HttpPost, ValidateAntiForgeryToken]
 		public IActionResult CheckOut(CheckoutVM model)
 		{
-			// SONRADAN
-			if (model.Order.PaymentOption == EPaymentOption.KrediKartı) // Kredi Kartı seçiliyse
+			
+			if (model.Order.PaymentOption == EPaymentOption.KrediKartı) 
 			{
-				// Kredi Kartı Kontrol
-			}
 
-			// SONRADAN ENDDD
+			}
 			model.Order.RecDate = DateTime.Now;
 			string orderNumber = DateTime.Now.Microsecond.ToString() + DateTime.Now.Minute.ToString() + DateTime.Now.Second.ToString() + DateTime.Now.Hour.ToString() + DateTime.Now.Microsecond.ToString() + DateTime.Now.Microsecond.ToString();
+			
 			if (orderNumber.Length > 20) orderNumber = orderNumber.Substring(0, 20);
+			
 			model.Order.OrderNumber = orderNumber;
 			model.Order.OrderStatus = EOrderStatus.Hazırlanıyor;
 			repoOrder.Add(model.Order);
 			List<Cart> carts = JsonConvert.DeserializeObject<List<Cart>>(Request.Cookies["MyCart"]);
+			
 			foreach (Cart cart in carts)
 			{
 				OrderDetail orderDetail = new OrderDetail
@@ -171,16 +168,7 @@ namespace Divisima.UI.Controllers
 				};
 				repoOrderDetail.Add(orderDetail);
 			}
-
-			// Müşteriye mail gönder
-			// firmaya mail gönder
 			return Redirect("/");
-		}
-
-		//[Route("sepet/sepeteekle"), HttpPost]
-		//public IActionResult AddCart(int productid, int quantity) Controller açtıktan sonra buraya breakpoint koyarak veri kontrolü yap
-		//{
-		//	return View();
-		//}
+		}		
 	}
 }
